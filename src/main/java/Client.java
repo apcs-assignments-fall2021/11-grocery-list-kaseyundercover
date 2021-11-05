@@ -9,5 +9,7 @@ public class Client {
         System.out.println(list1);
         list1.remove("milk");
         System.out.println(list1);
+
+
     }
 }
